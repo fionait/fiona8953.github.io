@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "Welcome to visit Fiona's blog!"
+date:   2019-02-17 03:00:00
+author: Fiona Zou
+categories: Life
+tags:	
+cover:  "/assets/instacode.png"
+---
+
+This is my first post, I have no idea what to share. So let's have a talk about life? A woman's life gone with her 30 ages. Maybe Blog, Twitter or Google Hangout are not that cool today. But I do think this gonne be interesting as I have too much want to say.  
+
+## Learn New Things
+
+When I was in high shool, I am a girl with full of imagination. I dislike do the rutine work, I like diversity life.
+
+### Change
+
+
+### Challenge
+
+
+
+### PasT
+
+
+
+[jekyll]:      http://jekyllrb.com
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-help]: https://github.com/jekyll/jekyll-help
+[highlight]:   https://highlightjs.org/
+[lightbox]:    http://lokeshdhakar.com/projects/lightbox2/
+[jekyll-archive]: https://github.com/jekyll/jekyll-archives
+[liquid]: https://github.com/Shopify/liquid/wiki/Liquid-for-Designers
