@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Dummy Post 2"
+date:   2019-03-01 08:43:59
+author: Fiona Zou
+categories: Dummy
+---
+
+This is just a dummy post. Lorem ipsum and all the rest.
