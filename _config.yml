@@ -15,14 +15,14 @@ email: fiona_it@163.com
 name: Fiona Zou
 description: >
   A simple yet classy theme for your Jekyll website or blog.
-baseurl: "/blog" # the subpath of your site, e.g. /blog/
-url: "https://fiona8953.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
 cover: "/assets/header_image.jpg"
 logo: "/assets/logo.png"
 
 # Build settings
 markdown: kramdown
-paginate: 5
+paginate: 3
 paginate_path: "/page:num/"
 inter_post_navigation: false
 highlightjs_theme: "monokai-sublime"
@@ -69,7 +69,7 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username: Fiona1Z
+    username: Fiona!Z
     url: https://twitter.com/Fiona1Z
     desc: Follow me on Twitter
     share: true
@@ -90,8 +90,8 @@ social:
 
   - name: LinkedIn
     icon: linkedin
-    username: Ben Centra
-    url: https://www.linkedin.com/pub/ben-centra/47/769/60a
+    username: 
+    url: 
     desc: Connect with me on LinkedIn
     share: true
 
