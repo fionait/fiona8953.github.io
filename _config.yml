@@ -9,7 +9,7 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Fiona's Tech Blog
+title: Tech Blog
 subtitle: "Fiona's play ground"
 email: fiona_it@163.com
 name: Fiona Zou
