@@ -18,11 +18,11 @@ email: fiona_it@163.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is a test site!
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://fiona8953.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 minima:
   social_links:
-    twitter: fiona1Z
+    twitter: Fiona1Z
     github: fiona8953
 
 # twitter_username: fiona1Z
