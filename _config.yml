@@ -22,7 +22,7 @@ logo: "/assets/logo.png"
 
 # Build settings
 markdown: kramdown
-paginate: 3
+paginate: 2
 paginate_path: "/page:num/"
 inter_post_navigation: false
 highlightjs_theme: "monokai-sublime"
@@ -45,11 +45,11 @@ jekyll-archives:
 
 # Category descriptions (for archive pages)
 descriptions:
-  - cat: jekyll
-    desc: "Posts describing Jekyll setup techniques."
+  - cat: life
+    desc: "Share life stories."
 
-  - cat: dummy
-    desc: "Just some placeholder posts, lorem ipsum and the rest."
+  - cat: tech
+    desc: "Share Tech article."
 
 # Social icons and sharing options
 #
@@ -83,7 +83,7 @@ social:
 
   - name: GitHub
     icon: github
-    username: fiona8953
+    username: fiona
     url: https://github.com/fiona8953
     desc: Fork me on GitHub
     share: false
@@ -111,7 +111,7 @@ social:
 
   - name: Instagram
     icon: instagram
-    username: fiou8953
+    username: fi_oz
     url: https://www.instagram.com/fiou8953/
     desc: Follow me on Instagram
     share: false
