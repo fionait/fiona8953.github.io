@@ -1,12 +1,10 @@
 ---
 layout: post
-title:  "Dummy Post 1"
-date:   2019-02-17 04:43:59
+title:  "Useful Tools"
+date:   2019-04-16 09:43:59
 author: Fiona Zou
 categories: Tech
 ---
-
-Git Tools
 
 Httpstat - This is an interesting tool I came across.  It breaks down the different parts of an HTTP request by time spent.  Sharing as this could be helpful if a customer is complaining about slow requests to apps running on PCF.
 https://github.com/reorx/httpstat
