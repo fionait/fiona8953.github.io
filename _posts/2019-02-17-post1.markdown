@@ -6,4 +6,27 @@ author: Fiona Zou
 categories: Tech
 ---
 
-This is just a dummy post. Lorem ipsum and all the rest.
+Git Tools
+
+Httpstat - This is an interesting tool I came across.  It breaks down the different parts of an HTTP request by time spent.  Sharing as this could be helpful if a customer is complaining about slow requests to apps running on PCF.
+https://github.com/reorx/httpstat
+
+
+Plag - It's a tool to extract metrics from log files. Supposing your methods follow the pattern of logging "start" and "end" when they execute a method (other combinations also apply), it can scan the logs (or stdin) and export metrics to CSV or datadog. Also, has a cool on-the-fly terminal graph option.     
+https://github.com/tscolari/plag
+
+
+Lag - It's a lager log visualization UI. It will nest you log messages according to their sessions, making it easier to trace the events. Especially useful if your app is multithreaded and you're using lager in a structured way (passing logger through methods and creating sessions from it inside). It has some shortcuts to filter errors, calculate session duration, etc.
+(it might take a while to load depending on log size :p )       
+https://github.com/tscolari/lag
+
+
+Some cool tools.  Some you may have seen some note.  Would be interested to see a list that are available by default on our stemcells.   
+https://kkovacs.eu/cool-but-obscure-unix-tools
+
+
+This is a really cool tool for looking at and editing Bosh manifest files.
+It requires v2 manifests, so manifests from PCF 1.8+ should be parsable.  
+Here's a copy and paste of a manifest directly from the `/debug/files` end point of Ops Manager.
+http://bosh.jamilshamy.me/#/
+
