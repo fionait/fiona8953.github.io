@@ -7,6 +7,7 @@ permalink: /about/
 <img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile">
 
 IT女，混迹各类公司，折腾了十年多。 会点DB，会点Ops，了解点cloud，就是不会Dev。 
+
 转眼已是十年的职场老鸟，过去十年不断向外挑战，向内探索，增加生命的厚度；未来的五年，稳字当先，稳中求变，向外改变，向内突破。愿一切都值得！
 
 <hr>
