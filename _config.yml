@@ -11,7 +11,7 @@ exclude:
 # Site settings
 title: Personal Blog
 subtitle: "Welcome to Fiona's world"
-email: unknow@fi-oz.com
+email: 
 name: Fiona
 description: >
   This is Fiona's blog.
@@ -68,13 +68,6 @@ descriptions:
 #     desc: Follow me on Twitter            # Description to display as link title, etc
 #     share: true                           # Include in the "Share" section of posts
 social:
-  - name: Wechat
-    icon: wechat
-    username: Marine_fio
-    url: 
-    desc: Add me via wechat
-    share: false
-    
   - name: Twitter
     icon: twitter
     username: 
@@ -121,6 +114,6 @@ protocols:
 
     twitter_image: "/assets/logo.png"
 
-    os_repo: "https://github.com/fiona8953/fiona8953.github.io"
+    os_repo: "https://github.com/fionait/fionait.github.io"
     os_rcs_type: "git"
-    os_src: "git@github.com:fiona8953/fiona8953.github.io"
+    os_src: "git@github.com:fionait/fionait.github.io"
