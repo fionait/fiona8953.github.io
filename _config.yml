@@ -11,7 +11,7 @@ exclude:
 # Site settings
 title: Personal Blog
 subtitle: "Welcome to Fiona's world"
-email: Marine_fio
+wechat: Marine_fio
 name: Fiona
 description: >
   This is Fiona's blog.
@@ -112,7 +112,7 @@ protocols:
     fb_image_height: 605
     fb_image_type: "image/png"
 
-    twitter_image: "/assets/logo.png"
+    twitter_image: "/assets/icon1.png"
 
     os_repo: "https://github.com/fionait/fionait.github.io"
     os_rcs_type: "git"
