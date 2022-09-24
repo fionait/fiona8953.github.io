@@ -6,14 +6,13 @@ permalink: /about/
 
 <img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile">
 
-IT女，混迹各类公司，折腾了十年多。 会点DB，会点Ops，了解点cloud，就是不会Dev。 
-
-转眼已是十年的职场老鸟，过去十年不断向外挑战，向内探索，增加生命的厚度；未来的五年，稳字当先，稳中求变，向外改变，向内突破。愿一切都值得！
-
-<hr>
-已过而立之年，却依然在魔都飘着；喜欢接触新鲜事物，期待遇到每一个真诚有趣的灵魂。
+基本信息：1989年，164cm，上海310，未婚，全日制本科。IT女，混迹各类公司，折腾十余年，现外企产品技术支持（年40w），朝8晚6。
+家庭背景：父母均退休，家庭合睦。和父母同住（闸北内中环商品房），另有房（闵行），暂无车。
+性格描述：亦静亦动，有同理心，喜欢尝试新鲜事物。
+个人爱好：运动（常年BMI 21），旅游（据马蜂窝不完全统足迹16个国家60+城市），看展（艺术、建筑、小众展览）和话剧，美食（自制or打卡）。
 
 <hr>
-Bonjour! Je m'appelle fiona. J'habite à Shanghai. Je suis ingénieur et travaille pour une société de logiciel. 
-
-Je suis très indépendante et sportive. Mon rêve est de voyager autour du monde!
+对对方要求：年龄83后，170+，310，有责任心，有独立婚房，条件相当，不丁克，偏好理工男。
+爱情观：三观相近，相处舒适，共同成长。
+理想中的婚姻：结婚就像两个人一起开高速，即使旅途中有过不愉快，还是希望能在对方最需要的时候分担一段路。人无完人，对待身边的人应该多一些耐心和体谅。（转自某blog） 
+希望多久时间内结婚：一年左右
